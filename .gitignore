@@ -1,3 +1,8 @@
 /figures/
 /reports/
 /old_notebooks/
+
+refueling_chemical.ipynb
+refueling_hybrid.ipynb
+refueling_penalties.ipynb
+thruster_selection.ipynb
