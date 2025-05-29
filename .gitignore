@@ -2,7 +2,11 @@
 /reports/
 /old_notebooks/
 
+
+
+avg_mass.ipynb
 refueling_chemical.ipynb
 refueling_hybrid.ipynb
 refueling_penalties.ipynb
 thruster_selection.ipynb
+satisfiability_problem.ipynb
